@@ -1,0 +1,1 @@
+selecionado = 0;
